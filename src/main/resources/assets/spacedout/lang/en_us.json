@@ -5,13 +5,13 @@
   "item.spacedout.dunes.originDesc":            "☀ From Exo-01, aka 'Desolate Dunes'",
 
   "block.spacedout.dunes.dust.coarse":          "Coarse Dust",
-  "block.spacedout.dunes.dust.coarse.clump":    "Coarse Dust Clump",
+  "item.spacedout.dunes.dust.coarse.clump":    "Coarse Dust Clump",
   "block.spacedout.dunes.dust.speckled":        "Speckled Dust",
-  "block.spacedout.dunes.dust.speckled.clump":  "Speckled Dust Clump",
+  "item.spacedout.dunes.dust.speckled.clump":  "Speckled Dust Clump",
   "block.spacedout.dunes.dust.silvery":         "Silvery Dust",
-  "block.spacedout.dunes.dust.silvery.clump":   "Silvery Dust Clump",
+  "item.spacedout.dunes.dust.silvery.clump":   "Silvery Dust Clump",
   "block.spacedout.dunes.dust.compacted":       "Compacted Dust",
-  "block.spacedout.dunes.dust.compacted.clump": "Compacted Dust Clump",
+  "item.spacedout.dunes.dust.compacted.clump": "Compacted Dust Clump",
 
   "itemGroup.spacedout.marsh":                  "Neurobile Marsh",
   "item.spacedout.marsh.originDesc":            "☠ From Exo-02, aka 'Neurobile Marsh'",
