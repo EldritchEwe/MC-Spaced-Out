@@ -1,7 +1,6 @@
-package EldritchEwe.spacedOut.util;
+package EldritchEwe.spacedOut.items;
 
 import EldritchEwe.spacedOut.blocks.SO_Blocks;
-import EldritchEwe.spacedOut.items.SO_Items;
 import EldritchEwe.spacedOut.SpacedOut;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
@@ -11,7 +10,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
-public class SO_CreativeTabs
+public class SO_ItemGroups
 {
     public ItemGroup DESOLATEDUNES_TAB = Registry.register ( Registries.ITEM_GROUP,
         Identifier.of(SpacedOut.MOD_ID, "dunes"),
@@ -27,7 +26,6 @@ public class SO_CreativeTabs
                 entries.add ( SO_Items.  SILVERY_DUST_CLUMP      );
                 entries.add ( SO_Blocks. COMPACTED_DUST.asItem() );
                 entries.add ( SO_Items.  COMPACTED_DUST_CLUMP    );
-                //entries.add ( ItemStack. EMPTY                   );
 
                 entries.add ( SO_Blocks. ANCIENT_RUBBLE.asItem() );
                 entries.add ( SO_Items.  ANCIENT_GEARS           );
