@@ -1,0 +1,30 @@
+{
+  "text.spacedout.example": "<b>Testing</b>",
+
+  "itemGroup.spacedout.dunes":                  "Desolate Dunes",
+  "item.spacedout.dunes.originDesc":            "☀ From Exo-01, aka 'Desolate Dunes'",
+
+  "block.spacedout.dunes.dust.coarse":          "Coarse Dust",
+  "block.spacedout.dunes.dust.coarse.clump":    "Coarse Dust Clump",
+  "block.spacedout.dunes.dust.speckled":        "Speckled Dust",
+  "block.spacedout.dunes.dust.speckled.clump":  "Speckled Dust Clump",
+  "block.spacedout.dunes.dust.silvery":         "Silvery Dust",
+  "block.spacedout.dunes.dust.silvery.clump":   "Silvery Dust Clump",
+  "block.spacedout.dunes.dust.compacted":       "Compacted Dust",
+  "block.spacedout.dunes.dust.compacted.clump": "Compacted Dust Clump",
+
+  "itemGroup.spacedout.marsh":                  "Neurobile Marsh",
+  "item.spacedout.marsh.originDesc":            "☠ From Exo-02, aka 'Neurobile Marsh'",
+
+  "itemGroup.spacedout.smog":                   "Smogsmear Crags",
+  "item.spacedout.smog.originDesc":             "? From Exo-03, aka 'Smogsmear Crags'",
+
+  "itemGroup.spacedout.depths":                 "Vermilion Depths",
+  "item.spacedout.depths.originDesc":           "? From Exo-04, aka 'Vermilion Depths'",
+
+  "itemGroup.spacedout.graveyard":              "Celestial Graveyard",
+  "item.spacedout.graveyard.originDesc":        "? From Exo-05, aka 'Celestial Graveyard'",
+
+  "itemGroup.spacedout.shell":                  "Splintered Shell",
+  "item.spacedout.shell.originDesc":            "? From Exo-06, aka 'Splintered Shell'"
+}

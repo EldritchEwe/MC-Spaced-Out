@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "spacedout",
+  "version": "${version}",
+  "name": "Spaced Out",
+  "description": "Back to the stars, but even further beyond!",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/spacedout/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "EldritchEwe.spacedOut.client.SpacedOutDataGenerator"
+    ],
+    "client": [
+      "EldritchEwe.spacedOut.client.SpacedOutClient"
+    ],
+    "main": [
+      "EldritchEwe.spacedOut.SpacedOut"
+    ]
+  },
+  "mixins": [
+    "spacedout.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
